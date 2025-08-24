@@ -1,4 +1,8 @@
 ## Hi there 👋
+バックエンドエンジニアとして働いています
+
+### 🌱 my skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=bash,docker,kubernetes,git,gitlab,mysql,pycharm,py" />
 
 <!--
 **mizugame634978/mizugame634978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
